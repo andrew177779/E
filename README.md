@@ -1,2 +1,2 @@
-# E
-Programming language created on C
+# EPL
+Programming language created on JS
